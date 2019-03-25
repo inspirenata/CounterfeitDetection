@@ -44,7 +44,7 @@ Now we start with finding position of different elements on the package. For tha
 
 After cropping the the region of interest (ROI) from initial photo we apply our trained classification model to check authenticity of the element from ROI. 
 
-## Finel result
+## Final result
 Final result comes up as a combination of individual checks.
 
 ## Built With
